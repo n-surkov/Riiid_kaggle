@@ -1,0 +1,13 @@
+,feature,value
+11,user_accuracy_hmean,19636453.957733154
+7,question_correct_answers_mean,1201992.2455749512
+3,attempts,974940.9739990234
+2,user_answers_count,389664.8858795166
+9,user_explanation_rate,308478.27337646484
+4,question_had_explanation_mean,208096.10249328613
+0,prior_question_elapsed_time,182911.3583984375
+1,part,156112.47114562988
+6,question_user_var,110830.74465942383
+8,user_elapsed_time_mean,86131.65298461914
+5,question_answers_count,78786.36911010742
+10,user_delay_mean,58986.75912475586

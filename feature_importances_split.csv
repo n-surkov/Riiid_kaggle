@@ -1,0 +1,13 @@
+,feature,value
+11,user_accuracy_hmean,505
+7,question_correct_answers_mean,504
+2,user_answers_count,292
+9,user_explanation_rate,183
+3,attempts,172
+1,part,164
+0,prior_question_elapsed_time,135
+8,user_elapsed_time_mean,124
+4,question_had_explanation_mean,96
+10,user_delay_mean,96
+6,question_user_var,87
+5,question_answers_count,72
